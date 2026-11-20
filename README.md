@@ -223,3 +223,14 @@ Para colaborações, dúvidas ou sugestões:
 🐛 **Reportar Bug:** [Abrir Issue](https://github.com/panda12332145/color-blind-cam/issues)
 
 💡 **Sugerir Melhoria:** [Discussions](https://github.com/panda12332145/color-blind-cam/discussions)
+
+## 📊 Métricas
+
+<!-- metrics:start -->
+| Métrica | Valor |
+|---|---|
+| ⭐ Stars | 0 |
+| 🍴 Forks | 0 |
+| 📌 Issues abertas | 0 |
+| 🕐 Último commit | 2026-10-23 |
+<!-- metrics:end -->
